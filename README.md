@@ -1,9 +1,12 @@
 # knowledge-Sys-of
 > Knowledge System Collections.
 
-* [knowledge-Sys-of-JSON](knowledge-Sys-of-JSON/README.md)
-* [knowledge-Sys-of-RE](knowledge-Sys-of-RE/README.md)
-* [knowledge-Sys-of-CODEC](knowledge-Sys-of-CODEC/README.md)
+* [KS-Programme-CB-JSON](knowledge-Sys-of-JSON/README.md)
+* [KS-Programme-CB-RE](knowledge-Sys-of-RE/README.md)
+* [KS-Programme-CB-CODEC](knowledge-Sys-of-CODEC/README.md)
 
-* [knowledge-Sys-of-AI](knowledge-Sys-of-AI/README.md)
-* [knowledge-Sys-of-Recommender-System](knowledge-Sys-of-Recommender/README.md)
+* [KS-AI](knowledge-Sys-of-AI/README.md)
+* [KS-AI-Recommender-System](knowledge-Sys-of-Recommender/README.md)
+
+* [KS-Language-C](KS-Language-C/README.md)
+* [KS-Language-Python](KS-Language-Python/README.md)
