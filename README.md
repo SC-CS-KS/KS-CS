@@ -22,3 +22,4 @@
 * [KS-Language-PHP](KS-Language-PHP/README.md)
 * [KS-Language-Lua](KS-Language-Lua/README.md)
 
+* [KS-Nginx](KS-Nginx/README.md)
