@@ -40,6 +40,7 @@
 * Nginx
 
 ## [软件工程](KS-SE/README.md)
+### 软件设计
 ### 软件质量改进 (Software Improve)
 ### 软件开发实践
 * 持续集成 CI
