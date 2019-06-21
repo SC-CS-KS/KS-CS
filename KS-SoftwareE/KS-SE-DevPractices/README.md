@@ -56,3 +56,14 @@
 
 ![](_pic/SE-CDeployment.png)
 
+##  软件开发和协作工具 
+* [Atlassian ](https://cn.atlassian.com/)
+```md
+Jira 缺陷跟踪领域
+GreenHopper 敏捷开发领域
+Conference 协同工作领域
+FishEye 代码查找领域
+Crucible 代码评审领域
+Bamboo 持续集成领域
+```
+
