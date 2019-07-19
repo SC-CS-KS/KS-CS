@@ -45,10 +45,8 @@ Transaction（交易）是流水（Journal）的聚合根，因为流水是因�
 
 ### 边界上下文(Bounded Context)
 
-
 ### 模型重构
 
 ### 业务可视化和可配置化
 
 ## Reference
-* [复杂性应对之道 - 领域建模](https://blog.csdn.net/significantfrank/article/details/79614915)
