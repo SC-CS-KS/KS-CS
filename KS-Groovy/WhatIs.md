@@ -1,4 +1,4 @@
-# [Groovy](http://www.groovy-lang.org/)
+# What Is Groovy
 ```md
 优点：
 1) 库： Groovy 可以调用强大的Java所有的库
@@ -19,6 +19,3 @@ Groovy 和 Grails 是Ruby和 Rails 的一种可考虑的替代选择，比较适
 个人层面：
 比较适合作 Java 程序员的第二语言。
 ```
-
-## References
-* [Gradle User Guide 中文版](https://dongchuan.gitbooks.io/gradle-user-guide-/)
