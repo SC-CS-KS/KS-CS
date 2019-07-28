@@ -1,6 +1,6 @@
 # Github
 
-## Orgnizations
+## Organizations
 * [Google](https://github.com/google)
 * [facebook](https://github.com/facebook)
 * [Alibaba](https://github.com/alibaba)
