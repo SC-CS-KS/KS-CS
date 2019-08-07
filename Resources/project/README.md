@@ -2,6 +2,8 @@
 ## 业务系统
 * [mall](https://github.com/macrozheng/mall)
 > 完整的电商系统
+* [litemall](https://github.com/linlinjava/litemall)
+> 又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端。
 * [xbin-store](https://gitee.com/binu/xbin-store)
 > 分布式 B2C 商城
 
@@ -16,6 +18,8 @@
 
 * [cim](https://github.com/crossoverJie/cim)
 > 适用于开发者的即时通讯系统
+* [wildfirechat](https://github.com/wildfirechat/server)
+> 野火IM是一套跨平台、全开源的即时通讯解决方案
 
 ## Games
 * [beimi](https://gitee.com/beimigame/beimi)
@@ -66,4 +70,8 @@
 ## Mobile Apps
 * [Flutter ](https://flutter.io/)
 > Flutter makes it easy and fast to build beautiful mobile apps.
+
+* [Linkage-RecyclerView](https://github.com/KunMinX/Linkage-RecyclerView)
+> 二级联动订餐列表 
+
 
