@@ -1,4 +1,4 @@
-# Declarative Programming (声明范式)
+# Declarative Programming
 ```md
 声明式编程发轫于人工智能的研究，
 主要包括函数式编程（functional programming，简称FP）和逻辑式编程（logic programming，简称LP）
