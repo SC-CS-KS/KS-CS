@@ -78,8 +78,6 @@
 * [C-OCR](https://github.com/ctripcorp/C-OCR)
 > 携程自研的 OCR 项目，主要包括身份证、护照、火车票、签证等旅游相关证件、材料的识别。
 
-
-
 ## 后台控制面板
 * [AdminLTE](https://github.com/ColorlibHQ/AdminLTE)
 > 非常流行的基于 Bootstrap 3.x 的免费的后台 UI 框架
