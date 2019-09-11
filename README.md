@@ -29,7 +29,7 @@
 ## [DataBase](https://github.com/SunnnyChan/KS-DataBase)
 ## MySQL
 ## Redis
-## Hbase
+## Hbase 
 
 ## [架构](https://github.com/SunnnyChan/KS-Architect)
 ### 分布式架构
