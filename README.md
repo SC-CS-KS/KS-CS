@@ -52,5 +52,3 @@ Table of Contents
    * [<a href="KS-CSA/README.md">计算机架构</a>](#计算机架构)
       * [<a href="KS-CSA/KS-OS/README.md">操作系统</a>](#操作系统)
          * [<a href="(KS-CSA/KS-Linux/README.md)">Linux</a>](#linux)
-
-Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
