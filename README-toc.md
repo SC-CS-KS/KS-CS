@@ -97,9 +97,10 @@
 # [互联网行业](https://github.com/SunnnyChan/KS-Internet)
 
 # [搜索引擎](https://github.com/SunnnyChan/KS-Internet/tree/master/KS-SearchE)
+# [推荐](https://github.com/SunnnyChan/KS-Internet/tree/master/KS-AI/KS-Recommender)
+
 # [云服务](https://github.com/SunnnyChan/KS-Internet/tree/master/KS-Cloud)
 # [人工智能 AI](https://github.com/SunnnyChan/KS-Internet/tree/master/KS-AI)
-# [推荐](https://github.com/SunnnyChan/KS-Internet/tree/master/KS-AI/KS-Recommender)
 
 # [计算机架构](KS-CSA/README.md)
 ## [操作系统](KS-CSA/KS-OS/README.md)
