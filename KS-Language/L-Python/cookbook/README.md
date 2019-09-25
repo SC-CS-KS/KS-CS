@@ -1,3 +1,0 @@
-# Cookbook
-
-* [String](string.md)

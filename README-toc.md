@@ -1,7 +1,7 @@
 # 编程语言
 ## [Java](https://github.com/SunnnyChan/KS-Java)
 ## [C](KS-Language/L-C/README.md)
-## [Python](KS-Language/L-Python/README.md)
+## [Python](L-Python/README.md)
 ## [PHP](KS-Language/L-PHP/README.md)
 ## [Lua](KS-Language/L-Lua/README.md)
 ## [Shell](https://github.com/SunnnyChan/two-minutes-of-Shell)
