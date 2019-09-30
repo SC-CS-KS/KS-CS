@@ -1,10 +1,8 @@
 # 网络
 
 ## Model
-### OSI
-### TCP/IP
-## TCP/IP
-![](_pic/TCP-IP.gif)
+### [OSI](Model/OSI.md)
+### [TCP/IP](Model/TCP-IP.md)
 
 ## [IO](IO/README.md)
 ### NIO
@@ -15,6 +13,8 @@
 ### TCP
 ### IP
 
+### HTTP
+### WebSocket
 ### SSH
 
 ## Network Develop
