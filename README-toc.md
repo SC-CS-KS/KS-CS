@@ -1,6 +1,6 @@
 # 编程语言
 ## [Java](https://github.com/SunnnyChan/KS-Java)
-## [C](KS-Language/L-C/README.md)
+## [C](L-C/README.md)
 ## [Python](L-Python/README.md)
 ## [PHP](KS-Language/L-PHP/README.md)
 ## [Lua](KS-Language/L-Lua/README.md)
@@ -94,6 +94,15 @@
 ### HIVE
 ## 流式数据
 
+# [计算机架构](KS-CSA/README.md)
+## [操作系统](KS-CSA/KS-OS/README.md)
+### [Linux]((KS-CSA/KS-Linux/README.md))
+## [计算机网络](KS-Network/README.md)
+### 网络模型
+### 网络I/O
+### 网络协议
+### Socket
+
 # [互联网行业](https://github.com/SunnnyChan/KS-Internet)
 
 # [搜索引擎](https://github.com/SunnnyChan/KS-Internet/tree/master/KS-SearchE)
@@ -102,14 +111,9 @@
 # [云服务](https://github.com/SunnnyChan/KS-Internet/tree/master/KS-Cloud)
 # [人工智能 AI](https://github.com/SunnnyChan/KS-Internet/tree/master/KS-AI)
 
-# [计算机架构](KS-CSA/README.md)
-## [操作系统](KS-CSA/KS-OS/README.md)
-### [Linux]((KS-CSA/KS-Linux/README.md))
-## 计算机网络
-
 # [开源](OpenSource/README.md)
 ## [GitHub](OpenSource/GitHub/README.md)
 ## [GitLab](OpenSource/GitLab/README.md)
 
-# 计算机英语
+# [计算机英语](ComputerEnglish/README.md)
 
