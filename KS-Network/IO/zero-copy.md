@@ -12,7 +12,7 @@
 零拷贝机制就实现了这一点。不过零拷贝需要由操作系统直接支持，不同OS有不同的实现方法。
 大多数Unix-like 系统都是提供了一个名为 sendfile() 的系统调用。
 ```
-![](../pic/zero-copy-flow.png)
+![](_pic/zero-copy-flow.png)
 ```md
 可见确实是消除了从内核空间到用户空间的来回复制，
 因此“zero-copy”这个词实际上是站在内核的角度来说的，并不是完全不会发生任何拷贝。
@@ -30,9 +30,9 @@
 也就是说，硬件可以通过Scatter/Gather DMA直接从内核缓冲区中取得全部数据，不需要再从内核缓冲区向Socket缓冲区拷贝数据。
 因此上面的时序图还可以进一步简化。
 ```
-![](../pic/zero-copy-Scatter-Gather.png)
+![](_pic/zero-copy-Scatter-Gather.png)
 
-![支持Scatter/Gather的零拷贝流程](../pic/zero-copy-flow-2.png)
+![支持Scatter/Gather的零拷贝流程](_pic/zero-copy-flow-2.png)
 
 ## 对内存映射（mmap）的支持
 ```md
@@ -40,7 +40,7 @@
 不过，很多操作系统也提供了内存映射机制，对应的系统调用为mmap()/munmap()。
 通过它可以将文件数据映射到内核地址空间，直接进行操作，操作完之后再刷回去。
 ```
-![](../pic/zero-copy-mmap.png)
+![](_pic/zero-copy-mmap.png)
 ```md
 当然，天下没有免费的午餐，上面的过程仍然会发生4次上下文切换。
 另外，它需要在快表（TLB）中始终维护着所有数据对应的地址空间，直到刷写完成，因此处理缺页的overhead也会更大。

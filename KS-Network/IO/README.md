@@ -9,10 +9,10 @@
 5. 将数据从用户缓冲区拷贝到内核中与目的地Socket关联的缓冲区。
 6. 数据最终经由 Socket 通过 DMA传送到硬件（如网卡）缓冲区，write()系统调用返回，并从内核态切换回用户态。
 ```
-![](../pic/network-io-flow.png)
+![](_pic/network-io-flow.png)
 
-![数据拷贝流程](../pic/network-io-data-copy.png)
-![上下文切换过程](../pic/network-io-context-switch.png)
+![数据拷贝流程](_pic/network-io-data-copy.png)
+![上下文切换过程](_pic/network-io-context-switch.png)
 
 * [零拷贝（Zero-copy）](zero-copy.md)
 

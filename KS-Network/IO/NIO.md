@@ -5,7 +5,7 @@
 ### Reactor 模型
 
 * Reactor单线程模型
-![](../pic/reactor-1.png.jpeg)
+![](_pic/reactor-1.png)
 ```md
 Reactor线程是个多面手，负责多路分离套接字，Accept新连接，并分派请求到处理器链中。
 该模型 适用于处理器链中业务处理组件能快速完成的场景。
@@ -21,7 +21,7 @@ Reactor线程是个多面手，负责多路分离套接字，Accept新连接，�
     一旦NIO线程意外跑飞，或者进入死循环，会导致整个系统通讯模块不可用，不能接收和处理外部信息，造成节点故障。
 ```
 * Reactor多线程模型
-![](../pic/reactor-2.png.jpeg)
+![](_pic/reactor-2.png)
 ```md
 Reactor 多线程模型与单线程模型最大区别就是有一组 NIO线程处理 I/O操作
 ```
@@ -39,7 +39,7 @@ Reactor 多线程模型与单线程模型最大区别就是有一组 NIO线程�
 为了解决性能问题，产生了第三种Reactor线程模型--主从Reactor多线程模型。
 ```
 * 主从Reactor多线程模型
-![](../pic/NIO-ms-reactor.jpeg)
+![](_pic/NIO-ms-reactor.jpeg)
 ```md
 服务端用于接收客户端连接的不再是1个单独的NIO线程，而是一个独立的NIO线程池。
 Acceptor 接收到客户端TCP连接请求处理完成后（可能包含接入认证等），
