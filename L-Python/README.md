@@ -16,4 +16,3 @@ Table of Contents
       * [<a href="Cookbook/String.md">String</a>](#string)
       * [Resources](#resources)
       * [ToRead](#toread)
-
