@@ -1,4 +1,0 @@
-# Network Protocol
-
-## OSI
-
